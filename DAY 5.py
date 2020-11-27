@@ -10,4 +10,4 @@ covid("Tom")
 covid("Ben")
 covid("Raj")
 covid("Vish","100 deg")
-i
+
