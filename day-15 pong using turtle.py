@@ -1,4 +1,4 @@
-# Import required libraray 
+#importing turtle module for 2D
 import turtle 
 # Create screen 
 sc = turtle.Screen() 
